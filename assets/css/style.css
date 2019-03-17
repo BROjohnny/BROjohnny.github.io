@@ -1000,7 +1000,7 @@ footer.singup{
 .main_blogs{
 	max-width:70%;
 	margin:0 auto;
-    transform: rotate(-10deg);
+    transform: rotate(0deg);
 }
 
 .single_blogs{
@@ -1059,7 +1059,7 @@ footer.singup{
 	background-size:cover;
 }
 .main_contact{
-	transform: rotate(10deg);
+	transform: rotate(0deg);
 }
 .contact_content{
     max-width: 80%;
