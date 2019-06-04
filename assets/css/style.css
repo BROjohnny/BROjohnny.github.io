@@ -680,10 +680,10 @@ input:-ms-input-placeholder {
 }
 .about_top_content i{
 	font-size:24px;
-	color:#999999;
+	color:#000000;
 }
 .about_top_content p{
-	color:#999999;
+	color:#000000;
 	font-size:20px;
 	max-width:55%;
 	margin:40px auto;
@@ -692,7 +692,7 @@ input:-ms-input-placeholder {
 .about_bottom_content h4{
 	font-size:24px;
 	font-family: 'coolveticaregular';
-	color:#999999;
+	color:#000000;
 	margin-bottom:40px;
 }
 .about_bottom_content a {
