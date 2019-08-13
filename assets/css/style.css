@@ -796,6 +796,26 @@ blockquote {
     margin-left: 206px;
 }
 
+/* coerner detection section */
+
+.coolautumnnew{
+    background:url(../images/coolautumnnew.jpg) no-repeat top center;
+    background-size:cover;
+}
+.coolautumn_overlaynew{
+    background: url(../images/overlay.png) repeat-y 100% 100%;
+    background-size: contain;
+}
+
+.blockquote-reversenew, blockquote.pull-right {
+    padding-right: 15px;
+    padding-left: 0;
+    text-align: right;
+    border-right: 2px solid #eee;
+    border-left: 0;
+    max-width: 55%;
+    margin-left: 206px;
+}
 
 /* Driving Home Section */
 
