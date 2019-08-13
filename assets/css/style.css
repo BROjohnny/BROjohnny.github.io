@@ -817,6 +817,10 @@ blockquote {
     margin-left: 206px;
 }
 
+.transformnew{
+    transform: rotate(+10deg);
+}
+
 /* Driving Home Section */
 
 .drivinghome{
@@ -1015,7 +1019,7 @@ footer.singup{
 }
 
 .transform{
-    transform: rotate(-10deg);
+    transform: rotate(0deg);
 }
 .main_blogs{
 	max-width:70%;
